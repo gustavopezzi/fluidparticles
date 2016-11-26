@@ -1,0 +1,26 @@
+html,
+body {
+    background: #212121;
+    padding-top: 25px;
+    cursor: url(../img/pointer.png), pointer;
+    font-family: 'CharriotDeluxe';
+}
+
+canvas {
+    display: block;
+    margin: auto;
+    border-style: solid;
+    background: #000;
+    border-width: 7px;
+    border-left-color: #99B4E1;
+    border-top-color: #99B4E1;
+    border-right-color: #4A5B89;
+    border-bottom-color: #4A5B89;
+    cursor:url(../img/pointer.png), pointer;
+}
+
+.helper-text {
+    margin: 30px auto;
+    text-align: center;
+    color: #fff;
+}
